@@ -4,6 +4,12 @@ import Footer from "@/components/Footer";
 
 const leistungen = [
   {
+    title: "Insolvenzverwaltung & Insolvenzwarenverkauf",
+    icon: "📋",
+    desc: "Wir übernehmen die Verwaltung von Unternehmensinsolvenzen mit dem Ziel, die bestmögliche Befriedigung der Gläubiger sicherzustellen. Dies umfasst die systematische Erfassung, Bewertung und Verwertung der Insolvenzmasse – einschließlich des Verkaufs von Insolvenzwaren.",
+    desc2: "Durch unsere Erfahrung in der Abwicklung von Insolvenzverfahren sind wir in der Lage, Vermögenswerte effizient zu verwerten und dabei sowohl die Interessen der Gläubiger als auch die gesetzlichen Vorgaben der Insolvenzordnung zu wahren. Unser Ansatz ist stets lösungsorientiert – ob Liquidation, übertragende Sanierung oder die Veräußerung einzelner Vermögensgegenstände.",
+  },
+  {
     title: "Inkassodienstleistungen",
     icon: "§",
     desc: "Als registrierter Inkassodienstleister gemäß § 10 Abs. 1 Satz 1 Nr. 1 RDG erbringen wir qualifizierte Rechtsdienstleistungen im Bereich der Forderungsdurchsetzung. Wir begleiten Sie vom außergerichtlichen Mahnverfahren über die Titulierung bis hin zur Zwangsvollstreckung – stets mit dem Ziel, Ihre berechtigten Ansprüche effizient und nachhaltig durchzusetzen.",
@@ -20,12 +26,6 @@ const leistungen = [
     icon: "⚖",
     desc: "Gemäß § 34 GewO und der Pfandleiherverordnung (i.d.F. vom 1.6.1976, BGBl. 1334, m.spät.Änd.) gewähren wir Darlehen gegen Verpfändung von beweglichen Gebrauchsgegenständen. Dieses Modell bietet Ihnen eine unkomplizierte und diskrete Möglichkeit, kurzfristigen Kapitalbedarf zu decken.",
     desc2: "Die Pfandleihe zeichnet sich durch ihre Einfachheit aus: Sie hinterlegen einen Wertgegenstand als Sicherheit und erhalten im Gegenzug ein Darlehen. Die Rückgabe des Pfandgegenstandes erfolgt nach vollständiger Tilgung des Darlehens einschließlich der vereinbarten Gebühren. Es erfolgt keine Bonitätsprüfung, und ein negativer SCHUFA-Eintrag ist ausgeschlossen.",
-  },
-  {
-    title: "Insolvenzverwaltung & Insolvenzwarenverkauf",
-    icon: "📋",
-    desc: "Wir übernehmen die Verwaltung von Unternehmensinsolvenzen mit dem Ziel, die bestmögliche Befriedigung der Gläubiger sicherzustellen. Dies umfasst die systematische Erfassung, Bewertung und Verwertung der Insolvenzmasse – einschließlich des Verkaufs von Insolvenzwaren.",
-    desc2: "Durch unsere Erfahrung in der Abwicklung von Insolvenzverfahren sind wir in der Lage, Vermögenswerte effizient zu verwerten und dabei sowohl die Interessen der Gläubiger als auch die gesetzlichen Vorgaben der Insolvenzordnung zu wahren. Unser Ansatz ist stets lösungsorientiert – ob Liquidation, übertragende Sanierung oder die Veräußerung einzelner Vermögensgegenstände.",
   },
 ];
 
