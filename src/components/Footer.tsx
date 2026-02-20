@@ -21,6 +21,8 @@ const Footer = () => {
             <p className="font-serif font-bold text-primary-foreground mb-3">Navigation</p>
             <div className="flex flex-col gap-1.5">
               <Link to="/" className="hover:text-primary-foreground transition-colors">Startseite</Link>
+              <Link to="/leistungen" className="hover:text-primary-foreground transition-colors">Unsere Leistungen</Link>
+              <Link to="/ueber-uns" className="hover:text-primary-foreground transition-colors">Über uns</Link>
               <Link to="/kontakt" className="hover:text-primary-foreground transition-colors">Kontakt</Link>
             </div>
           </div>
