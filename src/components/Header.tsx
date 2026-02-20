@@ -2,9 +2,9 @@ import { Link, useLocation } from "react-router-dom";
 
 const navItems = [
   { path: "/", label: "Startseite" },
+  { path: "/leistungen", label: "Unsere Leistungen" },
+  { path: "/ueber-uns", label: "Über uns" },
   { path: "/kontakt", label: "Kontakt" },
-  { path: "/impressum", label: "Impressum" },
-  { path: "/datenschutz", label: "Datenschutz" },
 ];
 
 const Header = () => {
