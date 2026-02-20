@@ -9,7 +9,7 @@ const Footer = () => {
           {/* Logo & Beschreibung */}
           <div className="md:col-span-1">
             <Link to="/">
-              <img src={logo} alt="Rausch Rechtsanwalt Logo" className="h-12 brightness-0 invert mb-3" />
+              <img src={logo} alt="Rausch Rechtsanwalt Logo" className="h-16 brightness-0 invert mb-4" />
             </Link>
             <p className="leading-relaxed">
               Ihre kompetente Anlaufstelle für Inkassodienstleistungen, Forderungsmanagement 
