@@ -11,7 +11,7 @@ const Index = () => {
         <section className="bg-secondary py-16">
           <div className="container">
             <h2 className="text-3xl font-serif font-bold text-foreground mb-4">
-              Willkommen bei der Kanzlei RA GmbH
+              Willkommen bei der Kanzlei Rausch GmbH
             </h2>
             <p className="text-muted-foreground max-w-2xl leading-relaxed mb-6">
               Wir sind Ihr erfahrener Partner für Inkassodienstleistungen, 
@@ -89,7 +89,7 @@ const Index = () => {
               Über die Kanzlei
             </h3>
             <p className="text-muted-foreground leading-relaxed max-w-2xl mb-4">
-              Die Kanzlei RA GmbH ist ein spezialisierter Dienstleister mit Sitz in 
+              Die Kanzlei Rausch GmbH ist ein spezialisierter Dienstleister mit Sitz in 
               Düsseldorf. Wir betreuen Mandanten aus dem gesamten Bundesgebiet und 
               setzen auf eine sachliche, lösungsorientierte Arbeitsweise.
             </p>

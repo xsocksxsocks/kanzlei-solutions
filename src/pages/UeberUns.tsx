@@ -21,7 +21,7 @@ const UeberUns = () => {
               Über uns
             </h2>
             <p className="text-muted-foreground leading-relaxed">
-              Lernen Sie die Kanzlei RA GmbH kennen – Ihren spezialisierten Partner 
+              Lernen Sie die Kanzlei Rausch GmbH kennen – Ihren spezialisierten Partner 
               für Inkasso, Forderungsmanagement und Vermögensverwertung in Düsseldorf.
             </p>
           </div>
@@ -32,10 +32,10 @@ const UeberUns = () => {
           <div className="container max-w-3xl space-y-10">
             <div>
               <h3 className="text-xl font-serif font-bold text-foreground mb-3">
-                Die Kanzlei RA GmbH
+                Die Kanzlei Rausch GmbH
               </h3>
               <p className="text-muted-foreground leading-relaxed">
-                Die Kanzlei RA GmbH mit Sitz in Düsseldorf ist ein spezialisierter 
+                Die Kanzlei Rausch GmbH mit Sitz in Düsseldorf ist ein spezialisierter 
                 Dienstleister für Inkassoangelegenheiten, Forderungsmanagement, 
                 Pfandleihe und Insolvenzverwaltung. Seit unserer Gründung verfolgen 
                 wir das Ziel, unseren Mandanten und Geschäftspartnern einen 
