@@ -41,7 +41,7 @@ const Impressum = () => {
               <h3 className="text-lg font-serif font-bold text-foreground mb-2">
                 Vertretungsberechtigter Geschäftsführer
               </h3>
-              <p>[Name des Geschäftsführers eintragen]</p>
+              <p>Hans-Michael Rausch</p>
             </div>
 
             <div>
