@@ -41,7 +41,7 @@ const Leistungen = () => {
               Unsere Leistungen
             </h2>
             <p className="text-muted-foreground leading-relaxed">
-              Die Kanzlei RA GmbH bietet Ihnen ein breites Spektrum an spezialisierten 
+              Die Kanzlei Rausch GmbH bietet Ihnen ein breites Spektrum an spezialisierten 
               Dienstleistungen rund um Forderungsmanagement, Vermögensverwertung und 
               kurzfristige Finanzierung.
             </p>
