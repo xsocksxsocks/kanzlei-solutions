@@ -16,7 +16,7 @@ const Datenschutz = () => {
               <h3 className="text-lg font-serif font-bold text-foreground mb-2">
                 1. Verantwortlicher
               </h3>
-              <p>Kanzlei Rausch GmbH</p>
+              <p>Kanzlei Rausch</p>
               <p>Fritz-Vomfelde-Straße 6-12</p>
               <p>40547 Düsseldorf</p>
               <p>E-Mail: info@kanzlei-ra.net</p>
