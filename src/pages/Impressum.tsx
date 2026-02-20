@@ -65,7 +65,7 @@ const Impressum = () => {
               <h3 className="text-lg font-serif font-bold text-foreground mb-2">
                 Zuständige Aufsichtsbehörde
               </h3>
-              <p>[Zuständige Aufsichtsbehörde eintragen]</p>
+              <p>Präsident des Landgerichts Düsseldorf</p>
             </div>
 
             <div>
