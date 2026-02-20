@@ -40,7 +40,7 @@ const Footer = () => {
           {/* Kontakt */}
           <div>
             <p className="font-serif font-bold text-primary-foreground mb-3">Kontakt</p>
-            <p>Kanzlei Rausch GmbH</p>
+            <p>Kanzlei Rausch</p>
             <p>Fritz-Vomfelde-Straße 6-12</p>
             <p>40547 Düsseldorf</p>
             <p className="mt-2">info@kanzlei-ra.net</p>
@@ -49,7 +49,7 @@ const Footer = () => {
         </div>
 
         <p className="text-center text-xs mt-8 border-t border-primary-foreground/20 pt-4">
-          © {new Date().getFullYear()} Kanzlei Rausch GmbH – Alle Rechte vorbehalten.
+          © {new Date().getFullYear()} Kanzlei Rausch – Alle Rechte vorbehalten.
         </p>
       </div>
     </footer>
