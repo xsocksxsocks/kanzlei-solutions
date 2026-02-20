@@ -15,7 +15,7 @@ const Header = () => {
     <header className="border-b border-border bg-primary">
       <div className="container py-6">
         <Link to="/">
-          <img src={logo} alt="Rausch Rechtsanwalt Logo" className="h-14 brightness-0 invert" />
+          <img src={logo} alt="Rausch Rechtsanwalt Logo" className="h-20 brightness-0 invert" />
         </Link>
       </div>
       <nav className="bg-primary/90 border-t border-primary-foreground/10">
