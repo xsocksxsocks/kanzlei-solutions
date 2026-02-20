@@ -31,14 +31,6 @@ const Impressum = () => {
 
             <div>
               <h3 className="text-lg font-serif font-bold text-foreground mb-2">
-                Registereintrag
-              </h3>
-              <p>Handelsregister: [Registergericht eintragen]</p>
-              <p>Registernummer: [HRB-Nummer eintragen]</p>
-            </div>
-
-            <div>
-              <h3 className="text-lg font-serif font-bold text-foreground mb-2">
                 Vertretungsberechtigter Geschäftsführer
               </h3>
               <p>Hans-Michael Rausch</p>
