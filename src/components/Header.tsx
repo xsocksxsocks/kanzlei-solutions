@@ -13,18 +13,10 @@ const Header = () => {
 
   return (
     <header className="border-b border-border bg-primary">
-      <div className="container py-6 flex items-center gap-5">
+      <div className="container py-6">
         <Link to="/">
           <img src={logo} alt="Rausch Rechtsanwalt Logo" className="h-14 brightness-0 invert" />
         </Link>
-        <div>
-          <h1 className="text-2xl font-serif font-bold text-primary-foreground mb-1">
-            Kanzlei RA GmbH
-          </h1>
-          <p className="text-sm text-primary-foreground/70">
-            Inkasso · Insolvenz · Factoring · Pfandleihe
-          </p>
-        </div>
       </div>
       <nav className="bg-primary/90 border-t border-primary-foreground/10">
         <div className="container flex gap-0">
