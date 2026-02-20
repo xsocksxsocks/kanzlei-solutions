@@ -1,4 +1,5 @@
 import { Link } from "react-router-dom";
+import logo from "@/assets/logo.png";
 
 const Footer = () => {
   return (
@@ -7,9 +8,9 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8 text-sm">
           {/* Logo & Beschreibung */}
           <div className="md:col-span-1">
-            <div className="w-16 h-16 bg-primary-foreground/20 rounded flex items-center justify-center mb-3">
-              <span className="text-primary-foreground font-serif font-bold text-xl">RA</span>
-            </div>
+            <Link to="/">
+              <img src={logo} alt="Rausch Rechtsanwalt Logo" className="h-12 brightness-0 invert mb-3" />
+            </Link>
             <p className="leading-relaxed">
               Ihre kompetente Anlaufstelle für Inkassodienstleistungen, Forderungsmanagement 
               und Pfandleihe im Raum Düsseldorf – zuverlässig, diskret und erfahren.
