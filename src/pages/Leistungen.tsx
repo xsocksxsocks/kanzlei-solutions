@@ -57,7 +57,7 @@ const Leistungen = () => {
                 className={`py-10 ${i < leistungen.length - 1 ? "border-b border-border" : ""}`}
               >
                 <div className="flex items-start gap-5">
-                  <div className="w-12 h-12 shrink-0 bg-primary text-primary-foreground rounded flex items-center justify-center text-xl font-serif font-bold">
+                  <div className="w-12 h-12 shrink-0 bg-primary text-primary-foreground rounded flex items-center justify-center text-xl font-normal">
                     {item.icon}
                   </div>
                   <div>
