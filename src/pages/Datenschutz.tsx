@@ -19,7 +19,7 @@ const Datenschutz = () => {
               <p>Kanzlei Rausch</p>
               <p>Fritz-Vomfelde-Straße 6-12</p>
               <p>40547 Düsseldorf</p>
-              <p>E-Mail: info@kanzlei-ra.net</p>
+              <p>E-Mail: kontakt@kanzlei-ra.net</p>
             </div>
 
             <div>

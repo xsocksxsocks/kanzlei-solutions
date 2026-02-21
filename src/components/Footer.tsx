@@ -43,7 +43,7 @@ const Footer = () => {
             <p>Kanzlei Rausch</p>
             <p>Fritz-Vomfelde-Straße 6-12</p>
             <p>40547 Düsseldorf</p>
-            <p className="mt-2">info@kanzlei-ra.net</p>
+            <p className="mt-2">kontakt@kanzlei-ra.net</p>
             <p>Telefon: auf Anfrage</p>
           </div>
         </div>
