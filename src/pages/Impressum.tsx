@@ -64,7 +64,7 @@ const Impressum = () => {
               <h3 className="text-lg font-serif font-bold text-foreground mb-2">
                 Umsatzsteuer-Identifikationsnummer
               </h3>
-              <p>USt-IdNr.: [USt-IdNr. eintragen]</p>
+              <p>USt-IdNr.: DE137468877</p>
             </div>
 
             <div>
