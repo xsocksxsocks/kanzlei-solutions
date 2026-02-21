@@ -27,6 +27,7 @@ const Kontakt = () => {
                 <h3 className="font-serif font-bold text-foreground mb-3">Anschrift</h3>
                 <div className="text-muted-foreground text-sm space-y-1">
                   <p className="font-semibold text-foreground">Kanzlei Rausch</p>
+                  <p>Hans-Michael Rausch</p>
                   <p>Bruchstraße 68</p>
                   <p>40235 Düsseldorf</p>
                 </div>

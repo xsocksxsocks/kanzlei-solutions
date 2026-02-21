@@ -41,6 +41,7 @@ const Footer = () => {
           <div>
             <p className="font-serif font-bold text-primary-foreground mb-3">Kontakt</p>
             <p>Kanzlei Rausch</p>
+            <p>Hans-Michael Rausch</p>
             <p>Bruchstraße 68</p>
             <p>40235 Düsseldorf</p>
             <p className="mt-2">kontakt@kanzlei-ra.net</p>
