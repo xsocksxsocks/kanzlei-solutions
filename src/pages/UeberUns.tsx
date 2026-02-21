@@ -68,8 +68,8 @@ const UeberUns = () => {
                 Standort Düsseldorf
               </h3>
               <p className="text-muted-foreground leading-relaxed">
-                Unser Büro befindet sich in der Fritz-Vomfelde-Straße 6-12, 
-                40547 Düsseldorf. Von hier aus betreuen wir Mandanten aus dem 
+                Unser Büro befindet sich in der Bruchstraße 68, 
+                40235 Düsseldorf. Von hier aus betreuen wir Mandanten aus dem
                 gesamten Bundesgebiet. Durch die zentrale Lage in Düsseldorf 
                 sind wir sowohl persönlich als auch digital gut erreichbar.
               </p>
