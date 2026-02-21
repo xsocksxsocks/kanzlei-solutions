@@ -25,7 +25,7 @@ const Impressum = () => {
               <h3 className="text-lg font-serif font-bold text-foreground mb-2">
                 Kontakt
               </h3>
-              <p>E-Mail: info@kanzlei-ra.net</p>
+              <p>E-Mail: kontakt@kanzlei-ra.net</p>
               <p>Telefon: auf Anfrage</p>
             </div>
 

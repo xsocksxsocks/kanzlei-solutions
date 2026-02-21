@@ -36,7 +36,7 @@ const Kontakt = () => {
               <div className="border border-border p-6">
                 <h3 className="font-serif font-bold text-foreground mb-3">Erreichbarkeit</h3>
                 <div className="text-muted-foreground text-sm space-y-1">
-                  <p>E-Mail: info@kanzlei-ra.net</p>
+                  <p>E-Mail: kontakt@kanzlei-ra.net</p>
                   <p>Telefon: auf Anfrage</p>
                 </div>
               </div>
