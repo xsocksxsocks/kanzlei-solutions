@@ -17,6 +17,7 @@ const Impressum = () => {
                 Angaben gemäß § 5 TMG
               </h3>
               <p>Kanzlei Rausch</p>
+              <p>Hans-Michael Rausch</p>
               <p>Bruchstraße 68</p>
               <p>40235 Düsseldorf</p>
             </div>
