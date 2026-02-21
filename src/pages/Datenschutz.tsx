@@ -17,8 +17,8 @@ const Datenschutz = () => {
                 1. Verantwortlicher
               </h3>
               <p>Kanzlei Rausch</p>
-              <p>Fritz-Vomfelde-Straße 6-12</p>
-              <p>40547 Düsseldorf</p>
+              <p>Bruchstraße 68</p>
+              <p>40235 Düsseldorf</p>
               <p>E-Mail: kontakt@kanzlei-ra.net</p>
             </div>
 

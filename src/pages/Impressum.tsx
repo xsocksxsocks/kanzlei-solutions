@@ -17,8 +17,8 @@ const Impressum = () => {
                 Angaben gemäß § 5 TMG
               </h3>
               <p>Kanzlei Rausch</p>
-              <p>Fritz-Vomfelde-Straße 6-12</p>
-              <p>40547 Düsseldorf</p>
+              <p>Bruchstraße 68</p>
+              <p>40235 Düsseldorf</p>
             </div>
 
             <div>
