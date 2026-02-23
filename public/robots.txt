@@ -12,3 +12,5 @@ Allow: /
 
 User-agent: *
 Allow: /
+
+Sitemap: https://kanzlei-solutions.lovable.app/sitemap.xml

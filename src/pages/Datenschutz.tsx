@@ -21,6 +21,7 @@ const Datenschutz = () => {
               <p>Bruchstraße 68</p>
               <p>40235 Düsseldorf</p>
               <p>E-Mail: kontakt@kanzlei-ra.net</p>
+              <p>Telefon: +49 211 86089236</p>
             </div>
 
             <div>

@@ -38,7 +38,7 @@ const Kontakt = () => {
                 <h3 className="font-serif font-bold text-foreground mb-3">Erreichbarkeit</h3>
                 <div className="text-muted-foreground text-sm space-y-1">
                   <p>E-Mail: kontakt@kanzlei-ra.net</p>
-                  <p>Telefon: auf Anfrage</p>
+                  <p>Telefon: +49 211 86089236</p>
                 </div>
               </div>
 
