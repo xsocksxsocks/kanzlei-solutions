@@ -27,7 +27,7 @@ const Impressum = () => {
                 Kontakt
               </h3>
               <p>E-Mail: kontakt@kanzlei-ra.net</p>
-              <p>Telefon: auf Anfrage</p>
+              <p>Telefon: +49 211 86089236</p>
             </div>
 
             <div>

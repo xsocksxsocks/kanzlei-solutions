@@ -45,7 +45,7 @@ const Footer = () => {
             <p>Bruchstraße 68</p>
             <p>40235 Düsseldorf</p>
             <p className="mt-2">kontakt@kanzlei-ra.net</p>
-            <p>Telefon: auf Anfrage</p>
+            <p>Telefon: +49 211 86089236</p>
           </div>
         </div>
 
